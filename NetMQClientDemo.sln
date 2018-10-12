@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetMQClientDemo", "NetMQClientDemo\NetMQClientDemo.csproj", "{893F30C6-D708-4D7A-A42F-55DEE6C2E047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893F30C6-D708-4D7A-A42F-55DEE6C2E047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893F30C6-D708-4D7A-A42F-55DEE6C2E047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893F30C6-D708-4D7A-A42F-55DEE6C2E047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893F30C6-D708-4D7A-A42F-55DEE6C2E047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {535615CB-242B-44DF-AE71-C0712A64C45D}
+	EndGlobalSection
+EndGlobal
